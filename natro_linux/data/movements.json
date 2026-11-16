@@ -1,0 +1,830 @@
+[
+  {
+    "name": "gtb-blue",
+    "kind": "routes",
+    "source": "paths/gtb-blue.ahk",
+    "sha256": "f6c50dce2ae5601aaad6780033aa4c0945f4bff1a51999c3bb8e54d556e1956e",
+    "module": "natro_linux.routes.gtb_blue",
+    "adaptations": []
+  },
+  {
+    "name": "gtb-mountain",
+    "kind": "routes",
+    "source": "paths/gtb-mountain.ahk",
+    "sha256": "11d148b552d8fe0c91da67fc42569757ce3be874b61ef3f0141d8aedfc734e18",
+    "module": "natro_linux.routes.gtb_mountain",
+    "adaptations": []
+  },
+  {
+    "name": "gtb-red",
+    "kind": "routes",
+    "source": "paths/gtb-red.ahk",
+    "sha256": "96fad4ad6f9f5cb3cc332ac61fe14a68aad44ddc49d93d8f6f025de339389d0c",
+    "module": "natro_linux.routes.gtb_red",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-WindShrine",
+    "kind": "routes",
+    "source": "paths/gtc-WindShrine.ahk",
+    "sha256": "8db9f89df26080193ed55a5cc102e956d0b309399d6545de32cbfe1ca5359fa4",
+    "module": "natro_linux.routes.gtc_windshrine",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-antpass",
+    "kind": "routes",
+    "source": "paths/gtc-antpass.ahk",
+    "sha256": "eeafa6025241ebe648c51ad469f0437d17cedf81832567ad47fe176b53766215",
+    "module": "natro_linux.routes.gtc_antpass",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-blender",
+    "kind": "routes",
+    "source": "paths/gtc-blender.ahk",
+    "sha256": "a88c3919bba7d54b89df831c16eabe8a34144b7af1019935ff99437ff5737021",
+    "module": "natro_linux.routes.gtc_blender",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-blueberrydis",
+    "kind": "routes",
+    "source": "paths/gtc-blueberrydis.ahk",
+    "sha256": "7a206fb4259a8fb4b07156c31d5ec9badbf703f0eb820ace9214945b657aca9b",
+    "module": "natro_linux.routes.gtc_blueberrydis",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-candles",
+    "kind": "routes",
+    "source": "paths/gtc-candles.ahk",
+    "sha256": "6de5ce9b49e2aad5b468f7124a2d034b9394793374ff72ac8034fb9550cf4027",
+    "module": "natro_linux.routes.gtc_candles",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-clock",
+    "kind": "routes",
+    "source": "paths/gtc-clock.ahk",
+    "sha256": "fc755bbfac3a511f25b6200322a0f65504c107d615db81b291044515253a5a77",
+    "module": "natro_linux.routes.gtc_clock",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-coconutdis",
+    "kind": "routes",
+    "source": "paths/gtc-coconutdis.ahk",
+    "sha256": "0b8f369ffc8dea81411c49faa5ede47603f42db7ae9dc0295df57259fba802f3",
+    "module": "natro_linux.routes.gtc_coconutdis",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-extrememm",
+    "kind": "routes",
+    "source": "paths/gtc-extrememm.ahk",
+    "sha256": "ec7501b1e387185b55cbfcdbcd182c9331b25811ebd3a5c1e0cac7300d6140fc",
+    "module": "natro_linux.routes.gtc_extrememm",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-feast",
+    "kind": "routes",
+    "source": "paths/gtc-feast.ahk",
+    "sha256": "63773c597f8330e9eef6dcd7e195ab80261ee440250db32691205ca69d9fa799",
+    "module": "natro_linux.routes.gtc_feast",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-gingerbread",
+    "kind": "routes",
+    "source": "paths/gtc-gingerbread.ahk",
+    "sha256": "90d377b6e8ad79bdb7b29214e3cf69d0caa4adcc6061021e2cd5991b2730ec88",
+    "module": "natro_linux.routes.gtc_gingerbread",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-gluedis",
+    "kind": "routes",
+    "source": "paths/gtc-gluedis.ahk",
+    "sha256": "9a4a39f56b34d4cf01adeb9ab6bed77f7d277fb2c00528ac48cce2077265afba",
+    "module": "natro_linux.routes.gtc_gluedis",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-gummybeacon",
+    "kind": "routes",
+    "source": "paths/gtc-gummybeacon.ahk",
+    "sha256": "799c7bbc0c67a77fd0f83104454309d44418b7a9954c473b2f044fa6ef51fdd3",
+    "module": "natro_linux.routes.gtc_gummybeacon",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-honeydis",
+    "kind": "routes",
+    "source": "paths/gtc-honeydis.ahk",
+    "sha256": "f47cbb66f43aa5e1acad12f960a2ab9436774209c33c511490927748cf256674",
+    "module": "natro_linux.routes.gtc_honeydis",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-honeylb",
+    "kind": "routes",
+    "source": "paths/gtc-honeylb.ahk",
+    "sha256": "cba309c6b8ef33ddf300ab79e26531e423f213ea575252428814f0ed94627bd2",
+    "module": "natro_linux.routes.gtc_honeylb",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-honeystorm",
+    "kind": "routes",
+    "source": "paths/gtc-honeystorm.ahk",
+    "sha256": "3232047aa90e7fe1d1ae68f89af2df74e4025202774e486ff2731e63f6cab935",
+    "module": "natro_linux.routes.gtc_honeystorm",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-lidart",
+    "kind": "routes",
+    "source": "paths/gtc-lidart.ahk",
+    "sha256": "b809c979e7c019c0cc61aa2e8add6bd805307a9b1010345df9a10210335942b7",
+    "module": "natro_linux.routes.gtc_lidart",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-megamm",
+    "kind": "routes",
+    "source": "paths/gtc-megamm.ahk",
+    "sha256": "7ec3684d82b01c298797937ae874eb4e583b9d310bcec3b8ef197cf3acf709e8",
+    "module": "natro_linux.routes.gtc_megamm",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-nightmm",
+    "kind": "routes",
+    "source": "paths/gtc-nightmm.ahk",
+    "sha256": "9698243975dd1922a008adf794581e74c740f5527010b264e26965f4c057f388",
+    "module": "natro_linux.routes.gtc_nightmm",
+    "adaptations": [
+      "Jump helper uses Motion.jump and monotonic time"
+    ]
+  },
+  {
+    "name": "gtc-normalmm",
+    "kind": "routes",
+    "source": "paths/gtc-normalmm.ahk",
+    "sha256": "b68bbf205a59571189348cc8979cfd4d35dbfc387a66920a3efc02428272b4ba",
+    "module": "natro_linux.routes.gtc_normalmm",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-rbpdelevel",
+    "kind": "routes",
+    "source": "paths/gtc-rbpdelevel.ahk",
+    "sha256": "7075d281f0ecea596591d1fd00f0b6e93297794e1d27a075eef593d453adc55c",
+    "module": "natro_linux.routes.gtc_rbpdelevel",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-robopass",
+    "kind": "routes",
+    "source": "paths/gtc-robopass.ahk",
+    "sha256": "dc1d58732874584ddd26d9764cb1b1bfe6e77e325fb069b582e870af70b8480e",
+    "module": "natro_linux.routes.gtc_robopass",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-royaljellydis",
+    "kind": "routes",
+    "source": "paths/gtc-royaljellydis.ahk",
+    "sha256": "d2e81b9d8b754b99aeca6111153cdffdc01851ff08890b4a30ded1095fd044b4",
+    "module": "natro_linux.routes.gtc_royaljellydis",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-samovar",
+    "kind": "routes",
+    "source": "paths/gtc-samovar.ahk",
+    "sha256": "21241ed63f9d258f8d61223383527e8d4261096b2a769f0618d5e4fac0d4f2fa",
+    "module": "natro_linux.routes.gtc_samovar",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-snowmachine",
+    "kind": "routes",
+    "source": "paths/gtc-snowmachine.ahk",
+    "sha256": "819d4aebb4a2f21f78492589839ea3808e95362ed1f13e6bddeb469ee3f15f53",
+    "module": "natro_linux.routes.gtc_snowmachine",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-stickerPrinter",
+    "kind": "routes",
+    "source": "paths/gtc-stickerPrinter.ahk",
+    "sha256": "7e9ae14a5444e501025920655ed215084b0582260cb7b83bda86a4c902ed0541",
+    "module": "natro_linux.routes.gtc_stickerprinter",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-stickerstack",
+    "kind": "routes",
+    "source": "paths/gtc-stickerstack.ahk",
+    "sha256": "545126c0f4c3fe786e244d9fb417d33e1fe251fb0b2ec4a60eb858422151af51",
+    "module": "natro_linux.routes.gtc_stickerstack",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-stockings",
+    "kind": "routes",
+    "source": "paths/gtc-stockings.ahk",
+    "sha256": "36c1542e248b739ae095ae4b605df8b197f7bf67959fccae71dac92be164b8bc",
+    "module": "natro_linux.routes.gtc_stockings",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-strawberrydis",
+    "kind": "routes",
+    "source": "paths/gtc-strawberrydis.ahk",
+    "sha256": "30270f57a7df898ecc042567f94a34cb0a3b724907ac3c342d1175a9620dbd85",
+    "module": "natro_linux.routes.gtc_strawberrydis",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-treatdis",
+    "kind": "routes",
+    "source": "paths/gtc-treatdis.ahk",
+    "sha256": "e886110b589adfeac8ea5674d97564b85e7830933b7abf4ce9cf21d935e90024",
+    "module": "natro_linux.routes.gtc_treatdis",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-wintermm",
+    "kind": "routes",
+    "source": "paths/gtc-wintermm.ahk",
+    "sha256": "46c877f8e046b7efcb183d4adf694e0fa07365d6f8139751fed5052d6ba0ff76",
+    "module": "natro_linux.routes.gtc_wintermm",
+    "adaptations": []
+  },
+  {
+    "name": "gtc-wreath",
+    "kind": "routes",
+    "source": "paths/gtc-wreath.ahk",
+    "sha256": "99fb6df7f7d38e15aad268ad3f644766f495423b5a0a362cbf8e2143044a0117",
+    "module": "natro_linux.routes.gtc_wreath",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-bamboo",
+    "kind": "routes",
+    "source": "paths/gtf-bamboo.ahk",
+    "sha256": "f6a503efc1b41c9c523be0557f504bb5031adf04aa5695acf78c0f13c060a8aa",
+    "module": "natro_linux.routes.gtf_bamboo",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-blueflower",
+    "kind": "routes",
+    "source": "paths/gtf-blueflower.ahk",
+    "sha256": "33139caeb9cb2432f80ae74455c49dff9ec77d8e1b4292050cb07467e719b71c",
+    "module": "natro_linux.routes.gtf_blueflower",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-cactus",
+    "kind": "routes",
+    "source": "paths/gtf-cactus.ahk",
+    "sha256": "8bd346b1755e893285371ec972ee53d49a4ab414aefc83f42b4ac51ce15cbb5c",
+    "module": "natro_linux.routes.gtf_cactus",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-clover",
+    "kind": "routes",
+    "source": "paths/gtf-clover.ahk",
+    "sha256": "92286a3e9a809733f02f93aeadaf240aa05ef1991005fb507361d9d57ad35cc8",
+    "module": "natro_linux.routes.gtf_clover",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-coconut",
+    "kind": "routes",
+    "source": "paths/gtf-coconut.ahk",
+    "sha256": "79d954cbd94653d9f6952fae6ea5c0fbb246426d5ceed594b92a136633af2000",
+    "module": "natro_linux.routes.gtf_coconut",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-dandelion",
+    "kind": "routes",
+    "source": "paths/gtf-dandelion.ahk",
+    "sha256": "016f0ce56ae307f9f76924a28076ea9cc2d86d1aa44e836b953d78c246945179",
+    "module": "natro_linux.routes.gtf_dandelion",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-mountaintop",
+    "kind": "routes",
+    "source": "paths/gtf-mountaintop.ahk",
+    "sha256": "7037a64963ec1812bca0019e10d4fc478474d559c34134179239acd104bff119",
+    "module": "natro_linux.routes.gtf_mountaintop",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-mushroom",
+    "kind": "routes",
+    "source": "paths/gtf-mushroom.ahk",
+    "sha256": "4b6aabf5b5dc6b853c9c9c2174ee3328a0138688a781714334f56c380598f400",
+    "module": "natro_linux.routes.gtf_mushroom",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-pepper",
+    "kind": "routes",
+    "source": "paths/gtf-pepper.ahk",
+    "sha256": "dbe17a8e2698dd7039c2cfd0929eefbcd6835e82ed7dc82a247543159e11e8c1",
+    "module": "natro_linux.routes.gtf_pepper",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-pineapple",
+    "kind": "routes",
+    "source": "paths/gtf-pineapple.ahk",
+    "sha256": "922f741a368e88f68d7d5962b68466efa3f9c9297051e3deaad16437ac7d29cc",
+    "module": "natro_linux.routes.gtf_pineapple",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-pinetree",
+    "kind": "routes",
+    "source": "paths/gtf-pinetree.ahk",
+    "sha256": "320dbc0661a123706e190d0c47171a16171c0cacb31418dabb993f2e36ac1779",
+    "module": "natro_linux.routes.gtf_pinetree",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-pumpkin",
+    "kind": "routes",
+    "source": "paths/gtf-pumpkin.ahk",
+    "sha256": "6edf72cfdc11d5243826e292334e0e587f1e61e58ca0e07317bae477cb3d4549",
+    "module": "natro_linux.routes.gtf_pumpkin",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-rose",
+    "kind": "routes",
+    "source": "paths/gtf-rose.ahk",
+    "sha256": "ea44451fb30be48622e442fbf5a300a283495c99504724978ff48877dedaf93b",
+    "module": "natro_linux.routes.gtf_rose",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-spider",
+    "kind": "routes",
+    "source": "paths/gtf-spider.ahk",
+    "sha256": "685c2c3ce849e4e1c2c5deb369d3846aece96b1bb19251245cd3a8c979ff81a6",
+    "module": "natro_linux.routes.gtf_spider",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-strawberry",
+    "kind": "routes",
+    "source": "paths/gtf-strawberry.ahk",
+    "sha256": "e9e821f23f3d2bb5ebbf29d8f02265750baddc28e746a93b338b09469c10d5ad",
+    "module": "natro_linux.routes.gtf_strawberry",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-stump",
+    "kind": "routes",
+    "source": "paths/gtf-stump.ahk",
+    "sha256": "45583a9dd92bee55aad127c9b164b9570e516d3280507dafec09b1d637ea545b",
+    "module": "natro_linux.routes.gtf_stump",
+    "adaptations": []
+  },
+  {
+    "name": "gtf-sunflower",
+    "kind": "routes",
+    "source": "paths/gtf-sunflower.ahk",
+    "sha256": "0ae84369a5267cd4bd0d5624193223b20bf0a7f446ecabde9022581fb315f95c",
+    "module": "natro_linux.routes.gtf_sunflower",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-bamboo",
+    "kind": "routes",
+    "source": "paths/gtp-bamboo.ahk",
+    "sha256": "7204f7ddb7aac2c9f3012215782d948cf52bedff7fa360f780805d41c4499077",
+    "module": "natro_linux.routes.gtp_bamboo",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-blueflower",
+    "kind": "routes",
+    "source": "paths/gtp-blueflower.ahk",
+    "sha256": "43dce407ea83a09883143d765f301551df2b7330f42379a872ebb3108d3cef49",
+    "module": "natro_linux.routes.gtp_blueflower",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-cactus",
+    "kind": "routes",
+    "source": "paths/gtp-cactus.ahk",
+    "sha256": "ab61690e84d60d69f9989d91ce1a7b0e761cd0582dcbf6e20459fd724ba40ae1",
+    "module": "natro_linux.routes.gtp_cactus",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-clover",
+    "kind": "routes",
+    "source": "paths/gtp-clover.ahk",
+    "sha256": "b64ffca04dac86ff55e20fefa4a11b5224457edb9d9f8360c902290a6959c0e9",
+    "module": "natro_linux.routes.gtp_clover",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-coconut",
+    "kind": "routes",
+    "source": "paths/gtp-coconut.ahk",
+    "sha256": "31e0da52dbfb8b7c564d691fee7bb9a42940e1766d9afa69003de9ec3522c43e",
+    "module": "natro_linux.routes.gtp_coconut",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-dandelion",
+    "kind": "routes",
+    "source": "paths/gtp-dandelion.ahk",
+    "sha256": "0e1772addafcade6eb5156ebcc2751aa0e21c0becb3ff7cd68eca24b939acde8",
+    "module": "natro_linux.routes.gtp_dandelion",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-mountaintop",
+    "kind": "routes",
+    "source": "paths/gtp-mountaintop.ahk",
+    "sha256": "0be401a03fc9e2097250bc51e0dc7a22a2675fc11c5df217138402b8b9b87bbf",
+    "module": "natro_linux.routes.gtp_mountaintop",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-mushroom",
+    "kind": "routes",
+    "source": "paths/gtp-mushroom.ahk",
+    "sha256": "d65c46706a830826a39f4c15b69c744ba17b6cb3410495e1851fa89569d5185b",
+    "module": "natro_linux.routes.gtp_mushroom",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-pepper",
+    "kind": "routes",
+    "source": "paths/gtp-pepper.ahk",
+    "sha256": "a5a6630532f60e99feb509131f2321591a66b4d5550c705b9b8c8dbba9f22da8",
+    "module": "natro_linux.routes.gtp_pepper",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-pineapple",
+    "kind": "routes",
+    "source": "paths/gtp-pineapple.ahk",
+    "sha256": "76a67b307df22c23c882c7139a73f54510b8556ff8177181e0d8a3948f91fb07",
+    "module": "natro_linux.routes.gtp_pineapple",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-pinetree",
+    "kind": "routes",
+    "source": "paths/gtp-pinetree.ahk",
+    "sha256": "064424aa3ec19f7dab4fbf2f51a1312ed8a5ec3d359e25a39a294d72432395e4",
+    "module": "natro_linux.routes.gtp_pinetree",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-pumpkin",
+    "kind": "routes",
+    "source": "paths/gtp-pumpkin.ahk",
+    "sha256": "163171055113fed2af3bef6b43041ab778afebaedec3d06263145f5c7bb39c19",
+    "module": "natro_linux.routes.gtp_pumpkin",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-rose",
+    "kind": "routes",
+    "source": "paths/gtp-rose.ahk",
+    "sha256": "4afe1042078a9bdefee3e37c7b94f4231d3c0792d5e15985e1d9b6e80701fb9c",
+    "module": "natro_linux.routes.gtp_rose",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-spider",
+    "kind": "routes",
+    "source": "paths/gtp-spider.ahk",
+    "sha256": "a9b9d08c5a8d17b9b8dd7f23f395a77d1239ad66522864f11c2dec099d4ed2d8",
+    "module": "natro_linux.routes.gtp_spider",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-strawberry",
+    "kind": "routes",
+    "source": "paths/gtp-strawberry.ahk",
+    "sha256": "c21b1ebd738f973821a8300da4ff481da5b9cc03b81ab4533984db3718c17b98",
+    "module": "natro_linux.routes.gtp_strawberry",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-stump",
+    "kind": "routes",
+    "source": "paths/gtp-stump.ahk",
+    "sha256": "484ab3760e1f8196b9747b16b2de607a97c22a1abcc3931c07aa1ac8fbc6fce2",
+    "module": "natro_linux.routes.gtp_stump",
+    "adaptations": []
+  },
+  {
+    "name": "gtp-sunflower",
+    "kind": "routes",
+    "source": "paths/gtp-sunflower.ahk",
+    "sha256": "51f66479e109f80257c67ad0aeff0c78f2ae94481c9e54b5a9e538115c22db8a",
+    "module": "natro_linux.routes.gtp_sunflower",
+    "adaptations": []
+  },
+  {
+    "name": "gtq-black",
+    "kind": "routes",
+    "source": "paths/gtq-black.ahk",
+    "sha256": "1088f990b27096c44aa19aee27247484dcea05893524a2e0ec2af3241154b5c6",
+    "module": "natro_linux.routes.gtq_black",
+    "adaptations": []
+  },
+  {
+    "name": "gtq-brown",
+    "kind": "routes",
+    "source": "paths/gtq-brown.ahk",
+    "sha256": "0954ac4b0e2c09164e75afb155112cfef9eea0f67dad8ac0d76669cfa8ef80c6",
+    "module": "natro_linux.routes.gtq_brown",
+    "adaptations": []
+  },
+  {
+    "name": "gtq-bucko",
+    "kind": "routes",
+    "source": "paths/gtq-bucko.ahk",
+    "sha256": "5e00b53d5150c7cea5e11be77a23291c5324086e03cab3ee8709beb7d4df48d8",
+    "module": "natro_linux.routes.gtq_bucko",
+    "adaptations": []
+  },
+  {
+    "name": "gtq-honey",
+    "kind": "routes",
+    "source": "paths/gtq-honey.ahk",
+    "sha256": "bd3e71ca34e12a270a00a1aadfae1dd5c00a439952e0eb287df6f42eadf840e7",
+    "module": "natro_linux.routes.gtq_honey",
+    "adaptations": []
+  },
+  {
+    "name": "gtq-polar",
+    "kind": "routes",
+    "source": "paths/gtq-polar.ahk",
+    "sha256": "e6da5340ef43c5b38e1045db01e06f9e7c50ecbce669379303d3cb1c36eb9b18",
+    "module": "natro_linux.routes.gtq_polar",
+    "adaptations": []
+  },
+  {
+    "name": "gtq-riley",
+    "kind": "routes",
+    "source": "paths/gtq-riley.ahk",
+    "sha256": "f243ebbd64f8714065fa079e71eab690d8934d763aeb22297543fd806d062c55",
+    "module": "natro_linux.routes.gtq_riley",
+    "adaptations": []
+  },
+  {
+    "name": "wf-bamboo",
+    "kind": "routes",
+    "source": "paths/wf-bamboo.ahk",
+    "sha256": "22c71d3f613b23ba7bd5e19804b6b4074f04d8be29a11a02b75773eceda3ce7b",
+    "module": "natro_linux.routes.wf_bamboo",
+    "adaptations": []
+  },
+  {
+    "name": "wf-blueflower",
+    "kind": "routes",
+    "source": "paths/wf-blueflower.ahk",
+    "sha256": "be7c00adfd519fb93b34aab8ec6ee4038fd3f705616873b1802cdd44683013d6",
+    "module": "natro_linux.routes.wf_blueflower",
+    "adaptations": []
+  },
+  {
+    "name": "wf-cactus",
+    "kind": "routes",
+    "source": "paths/wf-cactus.ahk",
+    "sha256": "63506871e26ef6f768fdc08e2ae17702160250e65297f5edf03d09785c98eefc",
+    "module": "natro_linux.routes.wf_cactus",
+    "adaptations": []
+  },
+  {
+    "name": "wf-clover",
+    "kind": "routes",
+    "source": "paths/wf-clover.ahk",
+    "sha256": "13c41adaddf734832c799efe16342335a137c7c4692374ff5c7cd778011911ce",
+    "module": "natro_linux.routes.wf_clover",
+    "adaptations": []
+  },
+  {
+    "name": "wf-coconut",
+    "kind": "routes",
+    "source": "paths/wf-coconut.ahk",
+    "sha256": "0d5829e78fcbaccc8c86ef59b031a7e9b8f1beb4f9472c17ce520b301cb3464e",
+    "module": "natro_linux.routes.wf_coconut",
+    "adaptations": []
+  },
+  {
+    "name": "wf-dandelion",
+    "kind": "routes",
+    "source": "paths/wf-dandelion.ahk",
+    "sha256": "6372068ec0cb3d6a14c903d8fdb3ecb5c18f6380ad43f7aadb4f10f31cf7ef5a",
+    "module": "natro_linux.routes.wf_dandelion",
+    "adaptations": []
+  },
+  {
+    "name": "wf-mountaintop",
+    "kind": "routes",
+    "source": "paths/wf-mountaintop.ahk",
+    "sha256": "172e788d56a3e881bd0359125237b73f09f799eb867d0f699b0a8f7ecb529e48",
+    "module": "natro_linux.routes.wf_mountaintop",
+    "adaptations": []
+  },
+  {
+    "name": "wf-mushroom",
+    "kind": "routes",
+    "source": "paths/wf-mushroom.ahk",
+    "sha256": "76dde22270f74ff64a95c05078b8d2b5b6683ea6c8008399509b7acb7ec915bf",
+    "module": "natro_linux.routes.wf_mushroom",
+    "adaptations": []
+  },
+  {
+    "name": "wf-pepper",
+    "kind": "routes",
+    "source": "paths/wf-pepper.ahk",
+    "sha256": "2b7c1638fe6fe585e6065238396b0ee459d8ffb3aac3869f4981726eff59d21b",
+    "module": "natro_linux.routes.wf_pepper",
+    "adaptations": []
+  },
+  {
+    "name": "wf-pineapple",
+    "kind": "routes",
+    "source": "paths/wf-pineapple.ahk",
+    "sha256": "8a09c7cd44fea68abdb3493f0029e10275db5229627f79d0be58ecd972e85dea",
+    "module": "natro_linux.routes.wf_pineapple",
+    "adaptations": []
+  },
+  {
+    "name": "wf-pinetree",
+    "kind": "routes",
+    "source": "paths/wf-pinetree.ahk",
+    "sha256": "38f11bc14cf85e3c7b27c00b3c8d5074d47d696bb45047d3447984ead4cf509c",
+    "module": "natro_linux.routes.wf_pinetree",
+    "adaptations": []
+  },
+  {
+    "name": "wf-pumpkin",
+    "kind": "routes",
+    "source": "paths/wf-pumpkin.ahk",
+    "sha256": "211847d9af7c69e3c51d4fefbf81cdfb76b77883cd3edd5749cd0a80a2c4849f",
+    "module": "natro_linux.routes.wf_pumpkin",
+    "adaptations": []
+  },
+  {
+    "name": "wf-rose",
+    "kind": "routes",
+    "source": "paths/wf-rose.ahk",
+    "sha256": "86484bf06089ffa902986c1bb7143fdcf14143770189637a82afed4b3051e46d",
+    "module": "natro_linux.routes.wf_rose",
+    "adaptations": []
+  },
+  {
+    "name": "wf-spider",
+    "kind": "routes",
+    "source": "paths/wf-spider.ahk",
+    "sha256": "8ea46212995e17c85e0e9d259295d2acc4e8753d2329b72584b40ab79b054871",
+    "module": "natro_linux.routes.wf_spider",
+    "adaptations": []
+  },
+  {
+    "name": "wf-strawberry",
+    "kind": "routes",
+    "source": "paths/wf-strawberry.ahk",
+    "sha256": "88a36d92b8a890850db326c1c5e153c7496de54bfeb6918a3c18b385750c8bb0",
+    "module": "natro_linux.routes.wf_strawberry",
+    "adaptations": []
+  },
+  {
+    "name": "wf-stump",
+    "kind": "routes",
+    "source": "paths/wf-stump.ahk",
+    "sha256": "05b3a62583efee88f09ee2d5da9a7876662e7d606cfd4082a272fce107f247e5",
+    "module": "natro_linux.routes.wf_stump",
+    "adaptations": []
+  },
+  {
+    "name": "wf-sunflower",
+    "kind": "routes",
+    "source": "paths/wf-sunflower.ahk",
+    "sha256": "8040ba928b83a76d824b2cd4b99b2397f01b0eadf0986cccf52a5d6e63f9f8d3",
+    "module": "natro_linux.routes.wf_sunflower",
+    "adaptations": []
+  },
+  {
+    "name": "Auryn",
+    "kind": "patterns",
+    "source": "patterns/Auryn.ahk",
+    "sha256": "4476156f3c98a9924848b7606f7af72dc3a163878f175d2fa2f41c2eb515c13f",
+    "module": "natro_linux.patterns.auryn",
+    "adaptations": []
+  },
+  {
+    "name": "CornerXSnake",
+    "kind": "patterns",
+    "source": "patterns/CornerXSnake.ahk",
+    "sha256": "b7f19f621c6c3674ff21c2fa0dc699689dce4c78bc5d63ba07b5ebe054b61ae9",
+    "module": "natro_linux.patterns.cornerxsnake",
+    "adaptations": [
+      "Removed extra literal brace after TCLRKey down in upstream"
+    ]
+  },
+  {
+    "name": "Diamonds",
+    "kind": "patterns",
+    "source": "patterns/Diamonds.ahk",
+    "sha256": "1449c536a37716dccb8c45dc929815ec90f85b6efe46a918f2fa962bce82dbd2",
+    "module": "natro_linux.patterns.diamonds",
+    "adaptations": []
+  },
+  {
+    "name": "Fork",
+    "kind": "patterns",
+    "source": "patterns/Fork.ahk",
+    "sha256": "56db588de995ab5d0476eef6bbaa6569ea9870fecf1cba191023422083503b16",
+    "module": "natro_linux.patterns.fork",
+    "adaptations": []
+  },
+  {
+    "name": "Lines",
+    "kind": "patterns",
+    "source": "patterns/Lines.ahk",
+    "sha256": "15fb64e2db9d9e8ffe7955386752852cd1212327c5aff26d3f1db743e437d577",
+    "module": "natro_linux.patterns.lines",
+    "adaptations": []
+  },
+  {
+    "name": "Slimline",
+    "kind": "patterns",
+    "source": "patterns/Slimline.ahk",
+    "sha256": "55dfb989138af06c0f04e4206786069dd29798234507416adc58e40c72a4ca8e",
+    "module": "natro_linux.patterns.slimline",
+    "adaptations": []
+  },
+  {
+    "name": "Snake",
+    "kind": "patterns",
+    "source": "patterns/Snake.ahk",
+    "sha256": "00fa49c982be51e02555dcddabd0e149ae646977c0f0c47363289c57b09a60dd",
+    "module": "natro_linux.patterns.snake",
+    "adaptations": []
+  },
+  {
+    "name": "Squares",
+    "kind": "patterns",
+    "source": "patterns/Squares.ahk",
+    "sha256": "17eeeecc6553fdb5a6b3df3eb07fb64bcb82d4b02b865b03ba65450478344b4e",
+    "module": "natro_linux.patterns.squares",
+    "adaptations": []
+  },
+  {
+    "name": "Stationary",
+    "kind": "patterns",
+    "source": "patterns/Stationary.ahk",
+    "sha256": "71c281565bf62b4fcc5ccb01246b1645a103096af5379dc98c394c98d7675aa1",
+    "module": "natro_linux.patterns.stationary",
+    "adaptations": []
+  },
+  {
+    "name": "SuperCat",
+    "kind": "patterns",
+    "source": "patterns/SuperCat.ahk",
+    "sha256": "2093828aaa115d2f1e43e2d3b1c7ec017ae9e394e5354bd4464d8d424dd41d73",
+    "module": "natro_linux.patterns.supercat",
+    "adaptations": []
+  },
+  {
+    "name": "XSnake",
+    "kind": "patterns",
+    "source": "patterns/XSnake.ahk",
+    "sha256": "d6c30baba630311f570391cb69f59422bc1919ffa2ab29189e11efd115e1d15d",
+    "module": "natro_linux.patterns.xsnake",
+    "adaptations": []
+  },
+  {
+    "name": "e_lol",
+    "kind": "patterns",
+    "source": "patterns/e_lol.ahk",
+    "sha256": "9f3abf273dc5c9105ec2f6bb8efd53359d71945240878f29767fc4a258ce17fd",
+    "module": "natro_linux.patterns.e_lol",
+    "adaptations": []
+  }
+]
